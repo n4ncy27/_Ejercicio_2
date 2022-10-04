@@ -3,6 +3,6 @@
 
 ## Diagrama de flujo
 
-![Diagrama de flujo](diagrama.png) "Diagrama de flujo")
+![diagrama de flujo](diagrama.png) "diagrama de flujo")
 
 
