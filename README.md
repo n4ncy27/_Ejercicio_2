@@ -2,7 +2,6 @@
 
 
 ## Diagrama de flujo ejercicios
-
-![Diagrama de flujo][(diagrama.png)]("diagrama de flujo")
+![Diagrama flujo](diagrama.png "Diagrama de flujo")
 
 
